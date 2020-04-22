@@ -1,2 +1,2 @@
-# tchoupou-sonwa
-Data science Projects
+# KENNE-ELECTRIC LLC
+PYTHON TUTORIAL
